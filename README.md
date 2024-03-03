@@ -36,7 +36,3 @@ Once the virtual assistant is running, you can interact with it using voice comm
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to the project, feel free to open an issue or submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
