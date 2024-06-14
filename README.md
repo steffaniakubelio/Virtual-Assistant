@@ -1,6 +1,6 @@
 # Virtual Assistant
 
-Welcome to our Virtual Assistant project! This Python-based virtual assistant is designed to perform various tasks such as navigating the web, playing music and videos from YouTube, providing weather updates, and telling the current date and time.
+Welcome to our Virtual Assistant project! This Python-based virtual assistant is designed to perform various tasks such as navigating the web, playing music and videos from YouTube, providing weather updates, and telling the current date and time
 
 ## Features
 
